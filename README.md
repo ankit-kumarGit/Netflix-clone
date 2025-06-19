@@ -32,7 +32,9 @@ https://nnflix.netlify.app/login
 
 | Login Page | Movie Browser | Trailer Popup |
 |------------|---------------|----------------|
-| ![Login](https://github.com/user-attachments/assets/52e38c3c-5bf5-4c15-a268-879db502a2d1)
- | ![Browse](https://github.com/user-attachments/assets/4a85f362-ac22-4fb9-bf70-3ffd2087633c) | ![Trailer](https://github.com/user-attachments/assets/487877c3-eeba-4e03-a9bc-6742a49304ec) |
+| ![Login](https://github.com/user-attachments/assets/52e38c3c-5bf5-4c15-a268-879db502a2d1) (https://github.com/user-attachments/assets/2c521e83-ed3d-47a2-a615-0490f6385e89)
+ | ![Browse](https://github.com/user-attachments/assets/4a85f362-ac22-4fb9-bf70-3ffd2087633c) (https://github.com/user-attachments/assets/9a1a3980-ad96-47ff-9f53-b2459744bfb9)| ![Trailer](https://github.com/user-attachments/assets/487877c3-eeba-4e03-a9bc-6742a49304ec) |
 
+
+![Screenshot 2025-06-20 001823]
 
