@@ -2,7 +2,7 @@
 
 A responsive, feature-rich **Netflix Clone** built with **React.js**, powered by **TMDB API**, integrated with **Firebase Authentication** and **Realtime Database**, and enhanced with smooth **toast notifications**. Watch trailers, scroll through trending shows, and enjoy a Netflix-like UI.
 
-https://nnflix.netlify.app/login
+https://netflix-clone-eosin-nine.vercel.app/
 
 ## Features
 
