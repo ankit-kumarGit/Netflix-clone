@@ -1,16 +1,38 @@
-<<<<<<< HEAD
-# React + Vite
+# Netflix Clone
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A responsive, feature-rich **Netflix Clone** built with **React.js**, powered by **TMDB API**, integrated with **Firebase Authentication** and **Realtime Database**, and enhanced with smooth **toast notifications**. Watch trailers, scroll through trending shows, and enjoy a Netflix-like UI.
 
-Currently, two official plugins are available:
+https://nnflix.netlify.app/login
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## Features
 
-## Expanding the ESLint configuration
+- 🔐 **Firebase Authentication** (Sign In / Sign Up with Email & Password)
+- 🧠 **Firebase Realtime Database** to store user data
+- 🎥 **Fetch movies and TV shows** from [TMDB](https://www.themoviedb.org/)
+- ▶️ **Watch YouTube trailers** instantly in a popup on tile click
+- 🔍 Scrollable title rows like original Netflix
+- 🧭 **React Router** for seamless page navigation
+- ✅ Beautiful notifications via **React Toastify**
+- 📱 Fully **responsive and mobile-friendly** UI
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
-=======
-# Netflix-clone
->>>>>>> 38af59d368cf329aa96d89127cd9100ef3357c43
+## 🛠️ Tech Stack
+
+| Technology        | Purpose                                  |
+|-------------------|------------------------------------------|
+| React.js          | Frontend Framework                       |
+| Firebase          | Authentication & Realtime Database       |
+| TMDB API          | Movie/TV Show Data                       |
+| React Router DOM  | Client-side Routing                      |
+| React Toastify    | Toast Notifications                      |
+| YouTube Embed     | Playing trailers on tile click           |
+| CSS               | Styling the components                   |
+----------------------------------------------------------------
+
+## 📸 Screenshots
+
+| Login Page | Movie Browser | Trailer Popup |
+|------------|---------------|----------------|
+| ![Login](https://drive.google.com/file/d/1Xi_PdNq6inaDULzslpSN37liOwyXnEwK/view?usp=sharing) | ![Browse](https://drive.google.com/file/d/15HxaU8AHeGJtlbPWBMTzNu538ensrJd8/view?usp=sharing) | ![Trailer](https://drive.google.com/file/d/1jcfq_LgJR28rDe_XK7S8xBch3VAKGuBQ/view?usp=sharing) |
+
+---
+
