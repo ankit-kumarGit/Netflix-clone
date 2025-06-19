@@ -32,7 +32,7 @@ https://nnflix.netlify.app/login
 
 | Login Page | Movie Browser | Trailer Popup |
 |------------|---------------|----------------|
-| ![Login](https://drive.google.com/file/d/1Xi_PdNq6inaDULzslpSN37liOwyXnEwK/view?usp=sharing) | ![Browse](https://drive.google.com/file/d/15HxaU8AHeGJtlbPWBMTzNu538ensrJd8/view?usp=sharing) | ![Trailer](https://drive.google.com/file/d/1jcfq_LgJR28rDe_XK7S8xBch3VAKGuBQ/view?usp=sharing) |
+| ![Login](https://github.com/user-attachments/assets/52e38c3c-5bf5-4c15-a268-879db502a2d1)
+ | ![Browse](https://github.com/user-attachments/assets/4a85f362-ac22-4fb9-bf70-3ffd2087633c) | ![Trailer](https://github.com/user-attachments/assets/487877c3-eeba-4e03-a9bc-6742a49304ec) |
 
----
 
