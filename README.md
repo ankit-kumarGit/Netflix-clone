@@ -37,15 +37,31 @@ A **responsive, feature-rich Netflix Clone** built with **React.js**, powered by
 
 ---
 
-| Sign In | Sign Up | Home Page | Tiles | Trailer Popup |
-|--------|---------|------------|--------|----------------|
-| ![Login](https://github.com/user-attachments/assets/52e38c3c-5bf5-4c15-a268-879db502a2d1) |
-![Signup](https://github.com/user-attachments/assets/2c521e83-ed3d-47a2-a615-0490f6385e89) |
-![Home](https://github.com/user-attachments/assets/4a85f362-ac22-4fb9-bf70-3ffd2087633c) |
-![Tiles](https://github.com/user-attachments/assets/9a1a3980-ad96-47ff-9f53-b2459744bfb9) |
-![Trailer](https://github.com/user-attachments/assets/487877c3-eeba-4e03-a9bc-6742a49304ec) |
+## Screenshots
+
+### Sign In Page
+![Login](https://github.com/user-attachments/assets/52e38c3c-5bf5-4c15-a268-879db502a2d1)
 
 ---
+
+### Sign Up Page
+![Signup](https://github.com/user-attachments/assets/2c521e83-ed3d-47a2-a615-0490f6385e89)
+
+---
+
+### Home Page
+![Home](https://github.com/user-attachments/assets/4a85f362-ac22-4fb9-bf70-3ffd2087633c)
+
+---
+
+### Movie Tiles
+![Tiles](https://github.com/user-attachments/assets/9a1a3980-ad96-47ff-9f53-b2459744bfb9)
+
+---
+
+### Trailer Popup
+![Trailer](https://github.com/user-attachments/assets/487877c3-eeba-4e03-a9bc-6742a49304ec)
+
 
 
 
