@@ -4,7 +4,7 @@ A responsive, feature-rich **Netflix Clone** built with **React.js**, powered by
 
 ## **Live Preview**
 
-https://krypture.netlify.app/
+https://nnflix.netlify.app/
 
 https://netflix-clone-eosin-nine.vercel.app/
 
