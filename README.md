@@ -1,6 +1,6 @@
-# **Netflix Clone**
+# Netflix Clone
 
-A responsive, feature-rich **Netflix Clone** built with **React.js**, powered by **TMDB API**, integrated with **Firebase Authentication** and **Realtime Database**, and enhanced with smooth **toast notifications**. Watch trailers, scroll through trending shows, and enjoy a Netflix-like UI.
+** A responsive, feature-rich **Netflix Clone** built with **React.js**, powered by **TMDB API**, integrated with **Firebase Authentication** and **Realtime Database**, and enhanced with smooth **toast notifications**. Watch trailers, scroll through trending shows, and enjoy a Netflix-like UI.
 ----
 
 ## **Live Preview**
