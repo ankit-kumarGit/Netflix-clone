@@ -1,38 +1,41 @@
 # Netflix Clone
 
-** A responsive, feature-rich **Netflix Clone** built with **React.js**, powered by **TMDB API**, integrated with **Firebase Authentication** and **Realtime Database**, and enhanced with smooth **toast notifications**. Watch trailers, scroll through trending shows, and enjoy a Netflix-like UI.
-----
+A **responsive, feature-rich Netflix Clone** built with **React.js**, powered by the **TMDB API**, integrated with **Firebase Authentication** and **Realtime Database**, and enhanced with smooth **toast notifications**. Watch trailers, scroll through trending shows, and enjoy a sleek Netflix-like user interface.
 
-## **Live Preview**
+---
 
-https://nnflix.netlify.app/
-----
+## Live Preview
+
+[https://nnflix.netlify.app/](https://nnflix.netlify.app/)
+
+---
 
 ## Features
 
-- 🔐 **Firebase Authentication** (Sign In / Sign Up with Email & Password)
-- 🧠 **Firebase Realtime Database** to store user data
-- 🎥 **Fetch movies and TV shows** from [TMDB](https://www.themoviedb.org/)
+- 🔐 **Firebase Authentication** (Sign In / Sign Up using Email & Password)
+- 🧠 **Firebase Realtime Database** to store user profiles and preferences
+- 🎥 **Fetch movies and TV shows** using [TMDB API](https://www.themoviedb.org/)
 - ▶️ **Watch YouTube trailers** instantly in a popup on tile click
-- 🔍 Scrollable title rows like original Netflix
-- 🧭 **React Router** for seamless page navigation
-- ✅ Beautiful notifications via **React Toastify**
-- 📱 Fully **responsive and mobile-friendly** UI
-------
+- 🔍 **Scrollable title rows**, just like the real Netflix UI
+- 🧭 **React Router** for smooth client-side routing
+- ✅ **React Toastify** for beautiful toast notifications
+- 📱 Fully **responsive** and **mobile-friendly** layout
+
+---
 
 ## Tech Stack
 
-| Technology        | Purpose                                  |
-|-------------------|------------------------------------------|
-| React.js          | Frontend Framework                       |
-| Firebase          | Authentication & Realtime Database       |
-| TMDB API          | Movie/TV Show Data                       |
-| React Router DOM  | Client-side Routing                      |
-| React Toastify    | Toast Notifications                      |
-| YouTube Embed     | Playing trailers on tile click           |
-| CSS               | Styling the components                   |
-----------------------------------------------------------------
-----
+|  Technology          |  Purpose                               |
+|----------------------|----------------------------------------|
+| React.js             | Frontend framework                     |
+| Firebase             | Auth and Realtime Database             |
+| TMDB API             | Movie/TV data source                   |
+| React Router DOM     | Client-side page navigation            |
+| React Toastify       | User notifications                     |
+| YouTube Embed        | Trailer player on tile click           |
+| CSS                  | Styling components                     |
+
+---
 
 ## Screenshots
 
